@@ -8,3 +8,5 @@
 * Высокая точность поиска
 * Высокая скорость поиска
 * Низкая цена
+
+Вы можете встроить NeuroStartUp в ваши приложения с помощью следующих сниппетов (кусочков) кода. JavaScript: ```javascript ``` Java (Maven): ```xml neuro sdk 1.0.0 ``` iOS (добавьте код в ваш Podfile): ``` platform :ios, '8.0' pod "neuro-ios-sdk" ```
